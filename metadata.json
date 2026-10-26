@@ -1,0 +1,6 @@
+{
+  "name": "PondHealth AI",
+  "description": "Intelligent Water Quality Monitoring, Early-Warning Risk Prediction & Sustainable Aquaculture Management Platform powered by AquaSense AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
